@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sentence-transformers
+torch==<versão_cpu_only>
+pydantic

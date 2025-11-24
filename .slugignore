@@ -3,9 +3,15 @@ __pycache__/
 *.pyo
 *.pyd
 *.log
-.env/
+.env
+*.env
 venv/
 tests/
 docs/
 .cache/
 .ipynb_checkpoints/
+.DS_Store
+.git
+.gitignore
+requirements.txt  # opcional, se precisar na imagem, remova esta linha, se não, deixe para reduzir peso
+*.md
